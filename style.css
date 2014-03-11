@@ -44,3 +44,8 @@ min-height: 220px;
 body#calsblack.page div.mobileScroll footer div.ieFooter div.inner div#pre-footer div.linksContainer ul#quick_links li.quick_links_list div.menu ul li.page_item a{
 font-size:14px;
 }
+
+/*Overrides any custom background color */
+body.custom-background {
+    background-color: #E8E6D9;
+}
