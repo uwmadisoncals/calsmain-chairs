@@ -49,3 +49,13 @@ font-size:14px;
 body.custom-background {
     background-color: #E8E6D9;
 }
+
+/* Visually removes #nav_sidebar on page home. Per client  request */
+body.home #secondary.widget-area ul#nav_sidebar{
+	display:none;
+}
+
+/* Visually removes #nav_sidebar on page resources-2. Per client  request */
+body.page-resources-2 #secondary.widget-area ul#nav_sidebar{
+	display:none;
+}
