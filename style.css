@@ -11,7 +11,9 @@ Version:        0.1.0
 /*@import url("../calsmain2013/master.css");*/
 
 
-@import url("../calsmain2013/style.css");
+/*@import url("../calsmain2013/style.css"); */
+
+@import url("//cals.wisc.edu/wp-content/themes/calsmain2013/style.css");
 
 
 
